@@ -9,7 +9,7 @@ import org.mockito.junit.MockitoJUnitRunner;
 import java.util.List;
 
 import static junit.framework.TestCase.assertEquals;
-
+    
 @RunWith(MockitoJUnitRunner.class)
 public class CatTest {
     @Mock
