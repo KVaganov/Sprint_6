@@ -4,7 +4,6 @@ import org.junit.runner.RunWith;
 import org.mockito.Mockito;
 import org.mockito.Spy;
 import org.mockito.junit.MockitoJUnitRunner;
-
 import java.util.List;
 
 import static junit.framework.TestCase.assertEquals;
